@@ -1,0 +1,20 @@
+{
+  "name": "umd-cli",
+  "version": "0.0.0",
+  "description": "Generate a .umd bundle of an NPM package",
+  "license": "MIT",
+  "bin": {
+    "umd": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "dependencies": {
+    "@aleclarson/quest": "^0.9.0",
+    "chalk": "^2.4.1",
+    "slurm": "^0.5.4"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.3"
+  }
+}
