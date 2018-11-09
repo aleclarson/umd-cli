@@ -2,6 +2,8 @@
 
 Generate a UMD bundle from an NPM package.
 
+Uses [packd.now.sh](https://github.com/Rich-Harris/packd) as the bundler.
+
 ```sh
 # using npx:
 npx umd-cli lodash > lodash.umd.js
