@@ -1,4 +1,4 @@
-const quest = require('quest')
+const quest = require('@aleclarson/quest')
 const fs = require('fs')
 
 const PACKD_URL = 'https://packd.now.sh/'
