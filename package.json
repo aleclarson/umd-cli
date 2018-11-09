@@ -2,6 +2,7 @@
   "name": "umd-cli",
   "version": "0.1.0",
   "description": "Generate a .umd bundle of an NPM package",
+  "repository": "aleclarson/umd-cli",
   "license": "MIT",
   "bin": {
     "umd": "cli.js"
