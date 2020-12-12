@@ -13,7 +13,7 @@
   "dependencies": {
     "@aleclarson/quest": "0.9.0",
     "chalk": "2.4.1",
-    "slurm": "0.5.6"
+    "slurm": "0.5.10"
   },
   "devDependencies": {
     "prettier": "1.15.3"
